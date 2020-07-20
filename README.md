@@ -1,3 +1,13 @@
+ _____    _                                
+|_   _|  | |                               
+  | | ___| | ___  ___  ___ ___  _ __   ___ 
+  | |/ _ \ |/ _ \/ __|/ __/ _ \| '_ \ / _ \
+  | |  __/ |  __/\__ \ (_| (_) | |_) |  __/
+  \_/\___|_|\___||___/\___\___/| .__/ \___|
+                               | |         
+                               |_|         
+
+
 # Telescope
 
 [![star this repo](https://githubbadges.com/star.svg?user=Sn0bzy&repo=Telescope&style=flat-square)](https://github.com/Sn0bzy/Telescope) [![fork this repo](https://githubbadges.com/fork.svg?user=Sn0bzy&repo=Telescope&style=flat-square)](https://github.com/Sn0bzy/Telescope/fork)
