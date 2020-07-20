@@ -11,6 +11,12 @@ Telescope, telegram gruplarından üyeler toplamanızı ve topladığınız bilg
   - Topladığınız üyeleri kanallarınıza ve gruplarınıza ekleyebilirsiniz!
   - İlk girişten itibaren tekrar kod girmeniz istenmeyecek!
 
+# Kurulum İçin Gerekenler
+
+- Python3
+- Pip3
+- Telethon
+
 
 ### Yapılacaklar
 
